@@ -1,0 +1,8 @@
+[package]
+name = "rust-solution"
+version = "0.1.0"
+authors = ["ademcaglin"]
+edition = "2018"
+
+[dependencies]
+md5 = "0.6.1"

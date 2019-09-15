@@ -1,6 +1,9 @@
 {
     "files.exclude": {
         "**/-lock.json": true,
-        "**/node_modules": true
+        "**/Cargo.lock": true,
+        "**/node_modules": true,
+        "**/__pycache__": true,
+        "**/rust/target": true
     }
 }
